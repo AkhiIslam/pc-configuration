@@ -1,0 +1,19 @@
+.img-size{
+    width: 400px;
+}
+.btn-hover:hover{
+background-color: blue;
+color: wheat;
+border-radius: 3px;
+}
+.btn-color{
+    background-color: blue;
+    color: wheat;
+    border-radius: 3px;
+}
+.alignment{
+    border-top: 1px solid rgb(112, 100, 100);
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
